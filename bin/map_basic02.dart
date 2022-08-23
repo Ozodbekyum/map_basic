@@ -5,10 +5,10 @@ Return the variable.
 
 */
 
-Map func(Map data) {
-  return data;
+Map func() {
+  return {1: 'one', 2: 'peek'};
 }
 
 void main() {
-  print(func({1: 'tok', 2: 'elektr'}));
+  print(func());
 }
