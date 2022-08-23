@@ -8,7 +8,7 @@ Return list_to_map variable
 */
 
 Map func(List lst1, List lst2) {
-  Map list_to_map = {1: 'one'};
+  Map list_to_map = {1: 'one', 2: 'two', 3: 'three', 4: 'four', 5: 'five'};
   return list_to_map;
 }
 
