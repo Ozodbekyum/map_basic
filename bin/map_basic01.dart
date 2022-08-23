@@ -4,7 +4,7 @@
 
 */
 
-Map func(data) {
+Map func(Map data) {
   return data;
 }
 
